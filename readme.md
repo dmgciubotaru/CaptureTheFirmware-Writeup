@@ -204,3 +204,9 @@ mem.close()
 Using a HEX viewer, you can easily see that there's a BASE64 encoded string inside the memory dump which is the challenge's flag.
 ![alt text](https://raw.githubusercontent.com/dmgciubotaru/CaptureTheFirmware-Writeup/df16b2233eee53ef05bb1aa06ef29a195860773b/dump.png)
 
+## References
+[https://en.wikipedia.org/wiki/CAN_bus](https://en.wikipedia.org/wiki/CAN_bus)
+[https://en.wikipedia.org/wiki/ISO_15765-2](https://en.wikipedia.org/wiki/ISO_15765-2)
+[https://en.wikipedia.org/wiki/Unified_Diagnostic_Services](https://en.wikipedia.org/wiki/Unified_Diagnostic_Services)
+[https://automotive.wiki/index.php/ISO_14229](https://automotive.wiki/index.php/ISO_14229)
+[https://www.iso.org/standard/55283.html](https://www.iso.org/standard/55283.html)
