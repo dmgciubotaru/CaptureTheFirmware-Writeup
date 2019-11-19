@@ -206,7 +206,11 @@ Using a HEX viewer, you can easily see that there's a BASE64 encoded string insi
 
 ## References
 [https://en.wikipedia.org/wiki/CAN_bus](https://en.wikipedia.org/wiki/CAN_bus)
+
 [https://en.wikipedia.org/wiki/ISO_15765-2](https://en.wikipedia.org/wiki/ISO_15765-2)
+
 [https://en.wikipedia.org/wiki/Unified_Diagnostic_Services](https://en.wikipedia.org/wiki/Unified_Diagnostic_Services)
+
 [https://automotive.wiki/index.php/ISO_14229](https://automotive.wiki/index.php/ISO_14229)
+
 [https://www.iso.org/standard/55283.html](https://www.iso.org/standard/55283.html)
